@@ -8,7 +8,7 @@ During a summer research internship at **NIT Rourkela**, I worked on CNN-based t
 
 ## Selected work
 
-- **[Campus Carbon Footprint Mapper](https://github.com/abhi-yadv/rorkee)** — a React and TypeScript dashboard prototype with sample building data, emissions simulations and a scripted sustainability assistant.
+- **[Facial Expression Recognition](https://github.com/abhi-yadv/rorkee)** — a Python, Flask and OpenCV application using a pre-trained FER CNN, with image uploads, webcam-frame capture, confidence scores and a separate FER-2013 training workflow.
 - **MediBridge / Medimates** — a private healthcare workflow prototype using React, TypeScript and Supabase. The assistant interactions are simulated; it is a learning project.
 
 ## Tools and current focus
